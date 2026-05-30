@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81279CFA-4A2C-4334-BF5A-AD9225FECDAD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\calc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-30T09:06:18.171Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,35 +45,22 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\calc.h",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\calc.h",
               "RelativeToolTip": "ConsoleApplication1\\calc.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-30T06:36:24.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "calc.cpp",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\calc.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\calc.cpp",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\calc.cpp",
               "RelativeToolTip": "ConsoleApplication1\\calc.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-30T06:35:55.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-30T06:35:17.367Z",
               "EditorCaption": ""
             }
           ]
