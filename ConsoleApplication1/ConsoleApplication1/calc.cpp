@@ -1,26 +1,30 @@
 #include <stdio.h>
 
-void OPE()
+void RES()
 {
 
 }
 
-void SUM()
+int  SUM(int num, int num1)
 {
-
+	int result = num + num1;
+	return result;
 }
 
-void SUB()
+int SUB(int num, int num1)
 {
-
+	int result = num - num1;
+	return result;
 }
 
-void MUL()
+int MUL(int num, int num1)
 {
-
+	int result = num * num1;
+	return result;
 }
 
-void DIV()
+int DIV(int num, int num1)
 {
-
+	int result = num / num1;
+	return result;
 }

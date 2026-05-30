@@ -2,9 +2,17 @@
 //
 
 #include <iostream>
+#include "calc.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int Num;
+    int Num1;
+    int ope;
+
+
+
+
+    // 5教科の値をそれぞれ受け取って引数
 }
 
