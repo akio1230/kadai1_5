@@ -15,8 +15,11 @@ int main()
         int res = 0;
         bool error = false;
 
-        printf("整数と演算子を入力してください: (例) 1 + 1\n");
-        scanf_s("%d %c %d",&Num, &Num1, &ope);
+        printf("演算子 (+, -, *, /) を入力してください\n");
+        scanf_s("%c", &ope);
+
+        printf("数値を一個ずつ入力してください\n");
+        scanf_s("%d %d", &Num, &Num1);
 
         switch (ope)
         {
@@ -47,8 +50,8 @@ int main()
         printf("答えは %d です\n", res);
 
         char c;
-        printf("続ける場合は y を入力してください:");
-        scanf_s(" %c ", &c, 1);
+        printf("続ける場合は y を入力してください:\n");
+        scanf_s(" %c ", &c);
         loop = (c == 'y' || c == 'Y');
 
     } while (loop);
